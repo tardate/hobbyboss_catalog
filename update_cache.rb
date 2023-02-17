@@ -68,7 +68,7 @@ class Scraper
   BACKOFF_SECONDS = ENV.fetch('BACKOFF_SECONDS', 0.3).to_f
   BASE_URL = 'http://www.hobbyboss.com'.freeze
   INDEX_URL = '/index.php?l=en'.freeze
-  CATEGORY_NAMES = %w[Armor Aircraft Ship Other Tools].freeze
+  CATEGORY_NAMES = %w[Aircraft Armor Ship Other Tools].freeze
   PRODUCT_TWEAKS = {
     '84517' => { 'scale' => '1:35'}
   }.freeze
