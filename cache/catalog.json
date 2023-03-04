@@ -6634,6 +6634,30 @@
       "code": "89901",
       "name": "German Sd.Kfz.171 Pzkpfw Ausf A Metal Gun Barrel for Item 84506",
       "scale": "1:35"
+    },
+    "83904": {
+      "category": "Aircraft",
+      "url": "/index.php?g=home&m=product&a=show&id=1734&l=en",
+      "image_url": "/Uploads/202302/63f3227c43a67.jpg",
+      "code": "83904",
+      "name": "Chinese KJ-500",
+      "scale": "1:144"
+    },
+    "82603": {
+      "category": "Armor",
+      "url": "/index.php?g=home&m=product&a=show&id=1738&l=en",
+      "image_url": "/Uploads/202302/63f3240ca2f06.jpg",
+      "code": "82603",
+      "name": "Pzkpfw 38(t) Ausf.E/F",
+      "scale": "1:16"
+    },
+    "85529": {
+      "category": "Armor",
+      "url": "/index.php?g=home&m=product&a=show&id=1736&l=en",
+      "image_url": "/Uploads/202302/63f3232682cf2.jpg",
+      "code": "85529",
+      "name": "9M96 of 50P6E TEL S350E Vityaz",
+      "scale": "1:35"
     }
   }
 }
