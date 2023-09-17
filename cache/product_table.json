@@ -6758,5 +6758,21 @@
     "code": "86517",
     "name": "USS Iowa BB-61",
     "scale": "1:350"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1774&l=en",
+    "image_url": "/Uploads/202308/64e2ce085224b.jpg",
+    "code": "84566",
+    "name": "Bergepanzer BPz3A1 “Buffalo” ARV",
+    "scale": "1:35"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1772&l=en",
+    "image_url": "/Uploads/202308/64e2cd1c52d2c.jpg",
+    "code": "82935",
+    "name": "Russian 9K79 Tochka (SS-21 Scarab) IRBM",
+    "scale": "1:72"
   }
 ]

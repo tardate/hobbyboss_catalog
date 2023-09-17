@@ -2,8 +2,8 @@
   "product_metadata": {
     "Armor": {
       "url": "/index.php?g=home&m=product&a=index&id=139&l=en",
-      "last_page_url": "/index.php?m=Product&a=index&p=24&id=139&l=en",
-      "pages": 24
+      "last_page_url": "/index.php?m=Product&a=index&p=25&id=139&l=en",
+      "pages": 25
     },
     "Aircraft": {
       "url": "/index.php?g=home&m=product&a=index&id=135&l=en",
@@ -6786,6 +6786,22 @@
       "code": "86517",
       "name": "USS Iowa BB-61",
       "scale": "1:350"
+    },
+    "84566": {
+      "category": "Armor",
+      "url": "/index.php?g=home&m=product&a=show&id=1774&l=en",
+      "image_url": "/Uploads/202308/64e2ce085224b.jpg",
+      "code": "84566",
+      "name": "Bergepanzer BPz3A1 “Buffalo” ARV",
+      "scale": "1:35"
+    },
+    "82935": {
+      "category": "Armor",
+      "url": "/index.php?g=home&m=product&a=show&id=1772&l=en",
+      "image_url": "/Uploads/202308/64e2cd1c52d2c.jpg",
+      "code": "82935",
+      "name": "Russian 9K79 Tochka (SS-21 Scarab) IRBM",
+      "scale": "1:72"
     }
   }
 }
