@@ -6774,5 +6774,61 @@
     "code": "82935",
     "name": "Russian 9K79 Tochka (SS-21 Scarab) IRBM",
     "scale": "1:72"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1788&l=en",
+    "image_url": "/Uploads/202311/655b2c66f41a7.jpg",
+    "code": "81783",
+    "name": "TBD-1 Devastator",
+    "scale": "1:48"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1784&l=en",
+    "image_url": "/Uploads/202310/6532407daccdb.jpg",
+    "code": "81786",
+    "name": "Russian MiG-29K",
+    "scale": "1:48"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1776&l=en",
+    "image_url": "/Uploads/202309/650bf54d4b77a.jpg",
+    "code": "81740",
+    "name": "U-2R “Dragon Lady” Senior Span",
+    "scale": "1:48"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1786&l=en",
+    "image_url": "/Uploads/202311/655b2a071cdd6.jpg",
+    "code": "80155",
+    "name": "Russian BMD-2",
+    "scale": "1:35"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1782&l=en",
+    "image_url": "/Uploads/202310/65323f04c9d75.jpg",
+    "code": "82954",
+    "name": "German Panzerjägerwagen Vol.1",
+    "scale": "1:72"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1780&l=en",
+    "image_url": "/Uploads/202309/650bfdf28cfe9.jpg",
+    "code": "84513",
+    "name": "US T34 Heavy Tank",
+    "scale": "1:35"
+  },
+  {
+    "category": "Ship",
+    "url": "/index.php?g=home&m=product&a=show&id=1778&l=en",
+    "image_url": "/Uploads/202309/650bf64e9020b.jpg",
+    "code": "83420",
+    "name": "Titanic",
+    "scale": "1:700"
   }
 ]
