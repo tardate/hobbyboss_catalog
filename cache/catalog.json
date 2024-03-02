@@ -6858,6 +6858,54 @@
       "code": "83420",
       "name": "Titanic",
       "scale": "1:700"
+    },
+    "80184": {
+      "category": "Aircraft",
+      "url": "/index.php?g=home&m=product&a=show&id=1798&l=en",
+      "image_url": "/Uploads/202402/65d5b31c20949.jpg",
+      "code": "80184",
+      "name": "Fieseler Fi-156U Storch",
+      "scale": "1:35"
+    },
+    "81779": {
+      "category": "Aircraft",
+      "url": "/index.php?g=home&m=product&a=show&id=1796&l=en",
+      "image_url": "/Uploads/202401/65addd032fc25.jpg",
+      "code": "81779",
+      "name": "“HURRICANE” Mk.ⅡC/TROP",
+      "scale": "1:48"
+    },
+    "81774": {
+      "category": "Aircraft",
+      "url": "/index.php?g=home&m=product&a=show&id=1790&l=en",
+      "image_url": "/Uploads/202312/6582b3f4c4526.jpg",
+      "code": "81774",
+      "name": "US B-24J Liberator",
+      "scale": "1:48"
+    },
+    "84572": {
+      "category": "Armor",
+      "url": "/index.php?g=home&m=product&a=show&id=1800&l=en",
+      "image_url": "/Uploads/202402/65d5b435449af.jpg",
+      "code": "84572",
+      "name": "GAZ-AAA with BM13/16 Katyusha",
+      "scale": "1:35"
+    },
+    "84577": {
+      "category": "Armor",
+      "url": "/index.php?g=home&m=product&a=show&id=1794&l=en",
+      "image_url": "/Uploads/202312/6582b92cb45e3.jpg",
+      "code": "84577",
+      "name": "PLA ZTQ-15 Light Tank",
+      "scale": "1:35"
+    },
+    "82936": {
+      "category": "Armor",
+      "url": "/index.php?g=home&m=product&a=show&id=1792&l=en",
+      "image_url": "/Uploads/202312/6582b65a3fb85.jpg",
+      "code": "82936",
+      "name": "German Panzerträgerwagen",
+      "scale": "1:72"
     }
   }
 }
