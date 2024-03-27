@@ -6878,5 +6878,21 @@
     "code": "82936",
     "name": "German Panzerträgerwagen",
     "scale": "1:72"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1802&l=en",
+    "image_url": "/Uploads/202403/65fa5b4120d97.jpg",
+    "code": "81785",
+    "name": "U-2S “Dragon Lady” Senior Span",
+    "scale": "1:48"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1804&l=en",
+    "image_url": "/Uploads/202403/65fa7b2c090c5.jpg",
+    "code": "82963",
+    "name": "DF-41 ICBM",
+    "scale": "1:72"
   }
 ]
