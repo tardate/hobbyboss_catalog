@@ -1,6 +1,6 @@
 # HobbyBoss Catalog Skin
 
-A fast and simple skin for the Trumpeter model catalog, using some nokogiri magic.
+A fast and simple skin for the HobbyBoss model catalog, using some nokogiri magic.
 Currently available to [browse online here](https://hobbyboss-catalog.tardate.com/).
 
 ## Notes
