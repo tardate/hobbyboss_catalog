@@ -15,7 +15,7 @@ This is a little weekend project to create a fast and searchable skin for the Ho
 
 ## Setup
 
-The catalog runs locally and needs a working ruby installation - I'm using Ruby 2.7.2 but the code is not version-sensitive.
+The catalog runs locally and needs a working ruby installation - I'm using Ruby 3.3.3 but the code is not version-sensitive.
 Dependencies can be installed with bundler in the usual way, then you are good to go:
 
 ```bash
