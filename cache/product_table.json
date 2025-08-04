@@ -7054,5 +7054,141 @@
     "code": "83421",
     "name": "Olympic",
     "scale": "1:700"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1876&l=en",
+    "image_url": "/Uploads/202507/687dfa3dbb7c8.jpg",
+    "code": "81789",
+    "name": "A-4C Sky Hawk",
+    "scale": "1:48"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1872&l=en",
+    "image_url": "/Uploads/202506/68551eb6ec794.jpg",
+    "code": "81793",
+    "name": "Messerschmitt Bf109E-4/TROP",
+    "scale": "1:48"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1870&l=en",
+    "image_url": "/Uploads/202505/682c456d90f9e.jpg",
+    "code": "87275",
+    "name": "TBF-1C Avenger",
+    "scale": "1:72"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1856&l=en",
+    "image_url": "/Uploads/202501/678f171fb1e04.jpg",
+    "code": "81792",
+    "name": "Messerschmitt Bf109E-4",
+    "scale": "1:48"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1850&l=en",
+    "image_url": "/Uploads/202411/673d98b22332b.jpg",
+    "code": "87274",
+    "name": "TBM-3 Avenger",
+    "scale": "1:72"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1848&l=en",
+    "image_url": "/Uploads/202411/673d97562eceb.jpg",
+    "code": "85818",
+    "name": "F/A-18E Super Hornet VFC-12",
+    "scale": "1:48"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1878&l=en",
+    "image_url": "/Uploads/202507/687dfc733d9f2.jpg",
+    "code": "84853",
+    "name": "British Challenger II (OP.Telic) Iraq 2003",
+    "scale": "1:48"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1874&l=en",
+    "image_url": "/Uploads/202506/6855204a0176a.jpg",
+    "code": "84525",
+    "name": "I.D.F. Namer-2 IFV",
+    "scale": "1:35"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1868&l=en",
+    "image_url": "/Uploads/202505/682c40ecb6202.jpg",
+    "code": "82962",
+    "name": "APA-5D Airport Starter Vehicle",
+    "scale": "1:72"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1864&l=en",
+    "image_url": "/Uploads/202504/6806014be077f.jpg",
+    "code": "84832",
+    "name": "German Flakpanzer V Ausf.A",
+    "scale": "1:48"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1862&l=en",
+    "image_url": "/Uploads/202503/67dbb3814ed2c.jpg",
+    "code": "84579",
+    "name": "Archer Artillery System FH77BW L52",
+    "scale": "1:35"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1860&l=en",
+    "image_url": "/Uploads/202502/67b6c67f29acc.jpg",
+    "code": "84842",
+    "name": "German Pz.Kpfw. IV Ausf.J Medium Tank",
+    "scale": "1:48"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1858&l=en",
+    "image_url": "/Uploads/202501/678f3547f2f21.jpg",
+    "code": "84852",
+    "name": "British Challenger II MBT",
+    "scale": "1:48"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1854&l=en",
+    "image_url": "/Uploads/202412/6764deaf96fda.jpg",
+    "code": "84524",
+    "name": "I.D.F. Namer-1 IFV",
+    "scale": "1:35"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1852&l=en",
+    "image_url": "/Uploads/202412/6764dd875a20f.jpg",
+    "code": "80154",
+    "name": "BMD-1P",
+    "scale": "1:35"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1846&l=en",
+    "image_url": "/Uploads/202411/673d9587f1025.jpg",
+    "code": "84538",
+    "name": "Soviet T-54 Medium Tank",
+    "scale": "1:35"
+  },
+  {
+    "category": "Ship",
+    "url": "/index.php?g=home&m=product&a=show&id=1866&l=en",
+    "image_url": "/Uploads/202504/6806035af2489.jpg",
+    "code": "86518",
+    "name": "HMS Lord Clive",
+    "scale": "1:350"
   }
 ]
