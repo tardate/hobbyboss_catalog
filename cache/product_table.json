@@ -7190,5 +7190,29 @@
     "code": "86518",
     "name": "HMS Lord Clive",
     "scale": "1:350"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1884&l=en",
+    "image_url": "/Uploads/202509/68ce4d633cee8.jpg",
+    "code": "85819",
+    "name": "F/A-18F Super Hornet VFC-12",
+    "scale": "1:48"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1882&l=en",
+    "image_url": "/Uploads/202509/68ce4c0875082.jpg",
+    "code": "80153",
+    "name": "BMD-1",
+    "scale": "1:35"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1880&l=en",
+    "image_url": "/Uploads/202508/68a57ff00045c.jpg",
+    "code": "80156",
+    "name": "COUGAR H A1 4X4 MRAP",
+    "scale": "1:35"
   }
 ]
