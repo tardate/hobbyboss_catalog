@@ -66,12 +66,18 @@ end
 
 class Scraper
   BACKOFF_SECONDS = ENV.fetch('BACKOFF_SECONDS', 0.3).to_f
+  OPEN_TIMEOUT = ENV.fetch('OPEN_TIMEOUT', 30).to_f
+  READ_TIMEOUT = ENV.fetch('READ_TIMEOUT', 60).to_f
   BASE_URL = 'http://www.hobbyboss.com'.freeze
   INDEX_URL = '/index.php?l=en'.freeze
   CATEGORY_NAMES = %w[Aircraft Armor Ship Other Tools].freeze
   PRODUCT_TWEAKS = {
     '84517' => { 'scale' => '1:35'}
   }.freeze
+
+  def initialize
+    log 'Scraper Initialised', "request settings - backoff: #{BACKOFF_SECONDS}s, open timeout: #{OPEN_TIMEOUT}s, read timeout: #{READ_TIMEOUT}s"
+  end
 
   def show_scales
     scales = catalog.products.values.each_with_object({}) do |product, memo|
@@ -171,13 +177,11 @@ class Scraper
       product_data = catalog.products[code]
       image_url = product_data['image_url']
       filename = catalog.image_path(code, image_url)
-      log 'Load Product Image', "loading #{filename} with a #{BACKOFF_SECONDS} second grace period delay"
-
-      unless File.exist?(filename)
-        open(filename, 'wb') do |file|
-          file << URI.open(URI.parse(BASE_URL + image_url)).read
-        end
-        sleep BACKOFF_SECONDS
+      message = "Cache Product Image [#{code}]"
+      if File.exist?(filename)
+        log message, "skipping #{image_url}, already cached"
+      else
+        get_page(image_url, message: message, format: :binary, destination_filename: filename)
       end
     end
   end
@@ -186,11 +190,12 @@ class Scraper
     @index_doc ||= get_page(INDEX_URL, message: 'GET main page (en)')
   end
 
-  def get_page(relative_url, message: nil)
+  def get_page(relative_url, message: nil, format: :html, destination_filename: nil)
     url = BASE_URL + relative_url
-    log message, "loading #{url} with a #{BACKOFF_SECONDS} second grace period delay"
-    html = URI.open(URI.parse(url))
-    result = Nokogiri::HTML(html)
+    log message, "loading #{url}"
+    response = URI.open(URI.parse(url), open_timeout: OPEN_TIMEOUT, read_timeout: READ_TIMEOUT)
+    result = format == :html ? Nokogiri::HTML(response) : response.read
+    File.write(destination_filename, result) if destination_filename
     sleep BACKOFF_SECONDS
     result
   end
