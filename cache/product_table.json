@@ -7214,5 +7214,77 @@
     "code": "80156",
     "name": "COUGAR H A1 4X4 MRAP",
     "scale": "1:35"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1896&l=en",
+    "image_url": "/Uploads/202603/69a9396e18883.jpg",
+    "code": "81790",
+    "name": "A-4B Sky Hawk",
+    "scale": "1:48"
+  },
+  {
+    "category": "Aircraft",
+    "url": "/index.php?g=home&m=product&a=show&id=1894&l=en",
+    "image_url": "/Uploads/202601/696f25d407679.jpg",
+    "code": "81782",
+    "name": "Focke-Wulf FW190A-8",
+    "scale": "1:48"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1902&l=en",
+    "image_url": "/Uploads/202604/69ead29aa1d3a.jpg",
+    "code": "84512",
+    "name": "US T30 Heavy Tank",
+    "scale": "1:35"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1900&l=en",
+    "image_url": "/Uploads/202603/69c3448a82da4.jpg",
+    "code": "84589",
+    "name": "PLA ZTZ-99B MBT",
+    "scale": "1:35"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1892&l=en",
+    "image_url": "/Uploads/202512/694658b688cd8.jpg",
+    "code": "84854",
+    "name": "British Challenger II Enhanced Armour",
+    "scale": "1:48"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1890&l=en",
+    "image_url": "/Uploads/202511/691ed84ab904f.jpg",
+    "code": "84560",
+    "name": "Pz.Kpfw.III Ausf.M",
+    "scale": "1:35"
+  },
+  {
+    "category": "Armor",
+    "url": "/index.php?g=home&m=product&a=show&id=1886&l=en",
+    "image_url": "/Uploads/202510/68f5f14290d37.jpg",
+    "code": "82964",
+    "name": "DF-61 ICBM",
+    "scale": "1:72"
+  },
+  {
+    "category": "Ship",
+    "url": "/index.php?g=home&m=product&a=show&id=1898&l=en",
+    "image_url": "/Uploads/202603/69c342830a99a.jpg",
+    "code": "87023",
+    "name": "PLAN Type 093 Shang Class SSN",
+    "scale": "1:700"
+  },
+  {
+    "category": "Ship",
+    "url": "/index.php?g=home&m=product&a=show&id=1888&l=en",
+    "image_url": "/Uploads/202510/68f5f27b9492d.jpg",
+    "code": "86519",
+    "name": "HMS General Wolfe",
+    "scale": "1:350"
   }
 ]
